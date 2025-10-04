@@ -5,6 +5,7 @@ All your friends suddenly started talking about nonsensical terms and giving you
 - [Timeline](#timeline)
 - [Principles](#principles)
 - [Resources](#resources)
+- [Classes Guide](#classes)
 - [FAQ](#faq)
 - [CS Brainrot Glossary](#glossary)
 - [Shameless personal interests plug](#shameless-personal-interest-plugs)
