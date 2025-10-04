@@ -1,6 +1,9 @@
 # Brown-CS-Job-Guide
 <img width="500" height="498" alt="personality-haver" src="https://github.com/user-attachments/assets/6649ad66-2cc7-4cd5-9e26-b393663300ec" />
 
+> Author: Bokai Bi '26, Discord @KoishiHat
+
+> Additional Contributors: N/A, please feel free to submit PRs/issues if you think something should be covered!
 
 
 
@@ -41,9 +44,25 @@ Every tool listed here is basically essential for the process.
 - [Jake's Template](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) is a LaTeX resume template that is used by almost everyone in CS. This is results-proven to be ATS (Applicant Tracking System, aka auto resume screener) friendly and LaTeX is a lot easier to manage in the long run than CareerLab/Center for Career Exploration's template, even if you have no experience in LaTeX at the moment.
 - [Pitt CSC & Simplify Job Board](https://github.com/SimplifyJobs/Summer2026-Internships) is the biggest centralized CS internship job board (there's a new grad version as well). It is updated multiple times a day during application season to show the newest openings. You should be checking this daily. There are also alternative boards that you can optionally cross-reference like the [Vansh & Ouckah Board](https://github.com/vanshb03/Summer2026-Internships).
 
+# Classes
+
 # FAQ
 
-
+# Glossary
+This section covers common words used in CS recruiting circles.
+- Leetcode: CS Interviews generally consist of at least 1 technical round, where people are generally asked data structures & algorithms puzzles where you're supposed to code a solution. [Leetcode](leetcode.com) is the biggest platform hosting sample questions for practice.
+- OA: Online Assessment, generally Leetcode-like coding questions administratered through online platforms like HackerRank.
+- SWE: Software Engineering
+- (T)PM: (Technical) Product Management, basically managers at tech companies.
+- Unicorn: A privately-held startup company valued at over $1 billion.
+- IPO (Initial Public Offering): When a private company offers its stock to the public for the first time. A major liquidity event for employees.
+- TC (Total Compensation): The complete value of a job offer, including base salary, annual bonus, and the value of stock grants or options.
+- RSUs (Restricted Stock Units): A form of stock-based compensation granted to employees that vests over time.
+- DSA: Data Structures and Algorithms, a common thing companies look for in applicants. Most Leetcode questions are DSA questions.
+- Quant: Quantitative trading. These companies trade assets using algorithms to make a lot of money. They pay a lot of money and tend to have harder interviews.
+- FAANG, MANGA etc: There are many variations of this but generally these acronyms are abbreviations for big tech companies. FacebookAppleAmazonNetflixGoogl, MetaAppleNetflix/NvidiaGoogleAmazon etc.
+- YC: Y-Combinator, a large venture capital firm that invests in a lot of tech startups, sometimes those founded by college students.
+- 
 
 # Shameless Personal Interest Plugs
 Check out:
