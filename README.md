@@ -10,6 +10,7 @@
 All your friends suddenly started talking about nonsensical terms and giving you anxiety? Feeling FOMO over not knowing what to prepare or what opportunities are available? Inspired by [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), this document will try to condense everything you need to know about the CS internship/job process while in BrownCS. The goal is to **maximize job prospects** while **minimizing stress** so you can spend you time on [cooler things](#shameless-personal-interest-plugs) :)
 
 # Index
+- [Motivation](#motivation)
 - [Timeline](#timeline)
 - [Principles](#principles)
 - [Resources](#resources)
@@ -17,6 +18,11 @@ All your friends suddenly started talking about nonsensical terms and giving you
 - [FAQ](#faq)
 - [CS Brainrot Glossary](#glossary)
 - [Shameless personal interests plug](#shameless-personal-interest-plugs)
+
+# Motivation
+I was chatting with a friend in Sunlab and realized there's no resource in BrownCS to help learning about the recruiting process. Recruiting is complicated and figuring everything out yourself take a lot of energy and creates anxiety. In the meantime, seniors with recruiting knowledge typically graduate without an opportunity to pass it down. 
+
+Personally, I think I have a pretty broad experience in recruiting - I've gotten offers from well-founded startups, quant firms, and tech companies of all sizes. In the past, I interned at Stripe and JPMorgan Chase, did systems research as an UTRA, TAed multiple classes, and also worked as a [SPOC](https://cs.brown.edu/people/staff/spoc/). At the same time, I was also able to spend a lot of time doing [things I like](#shameless-personal-interest-plugs) outside of recruiting. I hope this guide will reduce the amount of anxiety and crashouts you'll have to face and save you some time for your personal interests.
 
 # Timeline
 - Applications for summer SWE internships/jobs start opening up on **Early May the year before**. For example, for Summer 2027 internships, you should start applying **May 2026**. **YOU SHOULD APPLY ASAP WHEN ANY APP OPENS!!** This is no longer college applications - most listings are rolling and first-come-first-serve. Apply within the first day or two gives you the best chances
@@ -36,7 +42,6 @@ This section covers best practices to be following during job apps.
   - For reference, my freshman summer I sent ~300 applications with 3 interviews. Sophomore summer I sent ~300 applications with 8 interviews.
 - Allocate dedicated daily time over the Summer and early Fall for job apps. Apply quickly and forget - don't let it bleed all over your life.
 - Check your emails frequently. Recruiters will be reaching out there.
-- 
 
 # Resources
 Every tool listed here is basically essential for the process.
@@ -45,6 +50,11 @@ Every tool listed here is basically essential for the process.
 - [Pitt CSC & Simplify Job Board](https://github.com/SimplifyJobs/Summer2026-Internships) is the biggest centralized CS internship job board (there's a new grad version as well). It is updated multiple times a day during application season to show the newest openings. You should be checking this daily. There are also alternative boards that you can optionally cross-reference like the [Vansh & Ouckah Board](https://github.com/vanshb03/Summer2026-Internships).
 
 # Classes
+This section covers a list of classes I took and my personal opinions on them, ymmv.
+
+Course number | Time-consumption | Recruiting Utility | Notes
+--- | --- | --- | ---
+CSCI 0190 Accelerated Intro. to CS. | ★★★ | ★★★ | 
 
 # FAQ
 
