@@ -1,4 +1,9 @@
 # Brown-CS-Job-Guide
+<img width="500" height="498" alt="personality-haver" src="https://github.com/user-attachments/assets/6649ad66-2cc7-4cd5-9e26-b393663300ec" />
+
+
+
+
 All your friends suddenly started talking about nonsensical terms and giving you anxiety? Feeling FOMO over not knowing what to prepare or what opportunities are available? Inspired by [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), this document will try to condense everything you need to know about the CS internship/job process while in BrownCS. The goal is to **maximize job prospects** while **minimizing stress** so you can spend you time on [cooler things](#shameless-personal-interest-plugs) :)
 
 # Index
