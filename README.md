@@ -29,7 +29,7 @@ I was chatting with a friend in Sunlab and realized there's no resource in Brown
 Personally, I think I have a pretty broad experience in recruiting & BrownCS - I've gotten offers from well-funded startups, quant firms, and tech companies of all sizes. In the past, I interned at Stripe and JPMorgan Chase, did systems research as an UTRA, TAed multiple classes, and also worked as a [SPOC](https://cs.brown.edu/people/staff/spoc/). At the same time, I was also able to spend a lot of time doing [things I like](#shameless-personal-interest-plugs) outside of recruiting. I hope this guide will help making sure that recruiting doesn't eat up your life.
 
 # Timeline
-- Applications for summer SWE internships/jobs start opening up on **Early May the year before**. For example, for Summer 2027 internships, you should start applying **May 2026**. **YOU SHOULD APPLY ASAP WHEN ANY APP OPENS!!** This is no longer college applications - most listings are rolling and first-come-first-serve. Apply within the first day or two gives you the best chances
+- Applications for summer SWE internships/jobs start opening up on **Early May the year before**. For example, for Summer 2027 internships, you should start applying **May 2026**. **YOU SHOULD APPLY ASAP WHEN ANY APP OPENS!!** This is no longer college applications - most listings are rolling and first-come-first-serve. Apply within the first day or two gives you the best chances. Applications keep opening up for a long time, probably until Jan/Feb next year.
 - Brown internal opportunities:
   - [UTRA](https://utra.brown.edu/students#application-process) is a program where you apply to do research projects with faculty. This generally is a very nice starting point for your resume.
     - Applications for Spring semester UTRA is generally due late Sept/early Oct.
@@ -132,7 +132,7 @@ CSCI 1300 Interaction Design (aka UI/UX) | 15 hrs | ★★ | Scary subjective gr
 CSCI 1515 Applied Cryptography | 4 hrs | ★ | Niche class, somewhat number theoretic, but super interesting and Peihan is an amazing professor.
 CSCI 1230 Intro. to Computer Graphics | 7 hrs | ★ | Niche class that is somewhat math heavy. Many people find it very interesting though.
 CSCI 1440 Algorithmic Game Theory | 7 hrs | ★ | Niche class mainly for quant recruiting. 
-CSCI 0220 Discrete Structures and Probability | 3 hrs | N/A | Easy math class, interesting but in general I don't think math/theory is that useful for recruiting. Note they might rework it to be more difficult.
+CSCI 0220 Discrete Structures and Probability | 3 hrs | N/A | Easy math class, interesting but probably not that useful for recruiting. Note they might rework it to cover more things.
 
 And here's a list of classes I didn't take and my (much less educated) opinions on them
 Course number | Rumored Difficulty | Recruiting Utility | Notes
