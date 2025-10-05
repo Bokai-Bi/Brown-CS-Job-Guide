@@ -1,8 +1,6 @@
 # Brown-CS-Job-Guide
 <img width="500" height="498" alt="personality-haver" src="https://github.com/user-attachments/assets/95e30762-9f26-42d4-b6c4-3acca1fd68f3" />
 
-
-
 > Author: Bokai Bi '26, Discord @KoishiHat
 
 > Additional Contributors: N/A atm, please feel free to submit PRs/issues if you think something should be covered!
@@ -59,10 +57,11 @@ Every tool listed here is basically essential for the process.
 - Include interesting keywords. Did you use a cool cloud technology? Kernel framework? Sophisticated data structure? Let people know.
 - Bold keywords to make your resume easier to read
 - Find some resume you like and dissect what seems impressive about it. Resume-writing involves a lot of thinking!
+- Be truthful! Outside of obvious moral reasons, fabrication will eventually get found out.
 
 # Interview Tips
 - Interview is NOT a test. Have a fun conversation with your interviewer! Sometimes I like to talk about video games or anime.
-- Get plenty of sleep, don't do any LC the day of your interview (or even the day before). Get some sugar and caffine and relax. Keep your nerves no matter what.
+- Get plenty of sleep, don't do any LC the day of your interview (or even the day before). Get some sugar and caffine and relax. Keep your nerves.
 - Leetcode prep wise I recommend doing [Blind 75/Neetcode 150](https://neetcode.io/practice) questions list.
   - Do questions by difficulty and interleave categories
   - Think about the solution and give up if you can't find something within 30 minutes. You learn MUCH more from reading and understanding a good answer than breaking your head on some silly brain teaser.
@@ -134,18 +133,17 @@ CSCI 1230 Intro. to Computer Graphics | 7 hrs | ★ | Niche class that is somewh
 CSCI 1440 Algorithmic Game Theory | 7 hrs | ★ | Niche class mainly for quant recruiting. 
 CSCI 0220 Discrete Structures and Probability | 3 hrs | N/A | Easy math class, interesting but probably not that useful for recruiting. Note they might rework it to cover more things.
 
-And here's a list of classes I didn't take and my (much less educated) opinions on them
-Course number | Rumored Difficulty | Recruiting Utility | Notes
---- | --- | --- | ---
-CSCI 0320 Software Engineering | Pretty time-consuming | ★★ | Possible project class & resume keyword. Most of the content is self-learnable though. Also full-stack might become less relevant nowadays due to AI.
-CSCI 1440 Machine Learning | Easier than deep learning | ★★★ | Didn't take because it overlaps a bit with DL and I'm not thaaaat into AI.
-CSCI 1570 Design and Analysis of Algorithms | Allegedly difficult | ★★ | Difficult algorithm class. Good conversation topic at technical places & allegedly makes you extremely good at Leetcode.
-CSCI 1600 Real-time and Embedded Software | Haven't heard anything | ★ | Niche class but essential if you want to do real-time or embedded.
-CSCI 1650 Software Security and Exploitation | Allegedly quite light | ★ | Niche security class about buffer overflows
-CSCI 1715 Formal Proof and Verification | Allegedly not that hard | ★(★?) | Niche theory class, could be cool conversation topic at technical places.
-
 # Shameless Personal Interest Plugs
 Check out:
-- [Anime Video Game Ensemble](https://discord.gg/4MjJPBXYkz)
-- [Brown-RISD Game Developers](https://discord.gg/XnubdbQAua)
-- [Brown Touhou Club](https://discord.gg/q3YWhH26Mk)
+[Anime Video Game Ensemble](https://discord.gg/4MjJPBXYkz)
+- We play cool songs from animes and video games! Our large orchestra plays voted songs but you can also make Small Ensembles to play your personal favorites.
+- Great community for anything niche and genuinely met some of the people I respect the most here. Everyone's super dedicated to their interests and I think it's amazing
+- No musical experience needed - we can train you on percussion if needed! 
+[Brown-RISD Game Developers](https://discord.gg/XnubdbQAua)
+- Brown's biggest game developer hub. Contains amazing people and especially really amazing artists. The community is great.
+- We always need more programmers! No game dev experience is needed we'll train you on the project :)
+- You can also propose your own game ideas, so long as they're feasible to make within a semester!
+[Touhou@Brown](https://discord.gg/q3YWhH26Mk)
+- Brown's Touhou Project club!!! My beloved.
+- Please join us if you like Touhou!!!
+- We're making a fangame at the current moment - ideally every year we'll have different projects.
