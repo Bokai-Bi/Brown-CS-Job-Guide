@@ -15,14 +15,16 @@ All your friends suddenly started talking about nonsensical terms and giving you
 - [Principles](#principles)
 - [Resources](#resources)
 - [FAQ](#faq)
+- [Resume Guide](#resume)
+- [Interview Tips](#interview)
 - [CS Brainrot Glossary](#glossary)
 - [Classes Support](#classes)
-- [Shameless personal interests plug](#shameless-personal-interest-plugs)
+- [Shameless Personal Interest Plugs](#shameless-personal-interest-plugs)
 
 # Motivation
 I was chatting with a friend in Sunlab and realized there's no resource in BrownCS to help learning about the recruiting process. Recruiting is complicated and figuring everything out yourself take a lot of energy and creates anxiety. In the meantime, seniors with recruiting knowledge typically graduate without an opportunity to pass it down. 
 
-Personally, I think I have a pretty broad experience in recruiting - I've gotten offers from well-founded startups, quant firms, and tech companies of all sizes. In the past, I interned at Stripe and JPMorgan Chase, did systems research as an UTRA, TAed multiple classes, and also worked as a [SPOC](https://cs.brown.edu/people/staff/spoc/). At the same time, I was also able to spend a lot of time doing [things I like](#shameless-personal-interest-plugs) outside of recruiting. I hope this guide will reduce the amount of anxiety and crashouts you'll have to face and save you some time for your personal interests.
+Personally, I think I have a pretty broad experience in recruiting - I've gotten offers from well-founded startups, quant firms, and tech companies of all sizes. In the past, I interned at Stripe and JPMorgan Chase, did systems research as an UTRA, TAed multiple classes, and also worked as a [SPOC](https://cs.brown.edu/people/staff/spoc/). At the same time, I was also able to spend a lot of time doing [things I like](#shameless-personal-interest-plugs) outside of recruiting. I hope this guide will help making sure that recruiting doesn't eat up your life.
 
 # Timeline
 - Applications for summer SWE internships/jobs start opening up on **Early May the year before**. For example, for Summer 2027 internships, you should start applying **May 2026**. **YOU SHOULD APPLY ASAP WHEN ANY APP OPENS!!** This is no longer college applications - most listings are rolling and first-come-first-serve. Apply within the first day or two gives you the best chances
