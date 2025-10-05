@@ -140,12 +140,12 @@ Check out:
 - We play cool songs from animes and video games! Our large orchestra plays voted songs but you can also make Small Ensembles to play your personal favorites.
 - Great community for anything niche and genuinely met some of the people I respect the most here. Everyone's super dedicated to their interests and I think it's amazing
 - No musical experience needed - we can train you on percussion if needed!
-- 
+  
 [Brown-RISD Game Developers](https://discord.gg/XnubdbQAua)
 - Brown's biggest game developer hub. Contains amazing people and especially really amazing artists. The community is great.
 - We always need more programmers! No game dev experience is needed we'll train you on the project :)
 - You can also propose your own game ideas, so long as they're feasible to make within a semester!
-- 
+  
 [Touhou@Brown](https://discord.gg/q3YWhH26Mk)
 - Brown's Touhou Project club!!! My beloved.
 - Please join us if you like Touhou!!!
