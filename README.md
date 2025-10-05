@@ -3,9 +3,9 @@
 
 > Author: Bokai Bi '26, Discord @KoishiHat
 
-> Additional Contributors: N/A, please feel free to submit PRs/issues if you think something should be covered!
+> Additional Contributors: N/A atm, please feel free to submit PRs/issues if you think something should be covered!
 
-# This guide exists to make recruiting easier. Recruiting should only be a small portion of your college life and please spend time on friends, clubs, and cool projects.
+# This guide exists to make recruiting easier aka less time-consuming and stressful. Recruiting should only be a small portion of your life. Please spend time on friends, clubs, and cool projects.
 
 All your friends suddenly started talking about nonsensical terms and giving you anxiety? Feeling FOMO over not knowing what to prepare or what opportunities are available? Inspired by [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), this document will try to condense everything you need to know about the CS internship/job process while in BrownCS. The goal is to **maximize job prospects** while **minimizing stress** so you can spend you time on [cooler things](#shameless-personal-interest-plugs) :)
 
@@ -14,17 +14,17 @@ All your friends suddenly started talking about nonsensical terms and giving you
 - [Timeline](#timeline)
 - [Principles](#principles)
 - [Resources](#resources)
+- [Resume Tips](#resume-tips)
+- [Interview Tips](#interview-tips)
 - [FAQ](#faq)
-- [Resume Tips](#resume)
-- [Interview Tips](#interview)
 - [CS Brainrot Glossary](#glossary)
-- [Classes Support](#classes)
+- [Classes Reference](#classes)
 - [Shameless Personal Interest Plugs](#shameless-personal-interest-plugs)
 
 # Motivation
-I was chatting with a friend in Sunlab and realized there's no resource in BrownCS to help learning about the recruiting process. Recruiting is complicated and figuring everything out yourself take a lot of energy and creates anxiety. In the meantime, seniors with recruiting knowledge typically graduate without an opportunity to pass it down. 
+I was chatting with a friend in Sunlab and realized there's no resource in Brown to help learning about the CS recruiting process. Recruiting is complicated and figuring everything out yourself take a lot of energy and creates anxiety. In the meantime, seniors with recruiting knowledge typically graduate without an opportunity to pass it down. 
 
-Personally, I think I have a pretty broad experience in recruiting - I've gotten offers from well-founded startups, quant firms, and tech companies of all sizes. In the past, I interned at Stripe and JPMorgan Chase, did systems research as an UTRA, TAed multiple classes, and also worked as a [SPOC](https://cs.brown.edu/people/staff/spoc/). At the same time, I was also able to spend a lot of time doing [things I like](#shameless-personal-interest-plugs) outside of recruiting. I hope this guide will help making sure that recruiting doesn't eat up your life.
+Personally, I think I have a pretty broad experience in recruiting & BrownCS - I've gotten offers from well-funded startups, quant firms, and tech companies of all sizes. In the past, I interned at Stripe and JPMorgan Chase, did systems research as an UTRA, TAed multiple classes, and also worked as a [SPOC](https://cs.brown.edu/people/staff/spoc/). At the same time, I was also able to spend a lot of time doing [things I like](#shameless-personal-interest-plugs) outside of recruiting. I hope this guide will help making sure that recruiting doesn't eat up your life.
 
 # Timeline
 - Applications for summer SWE internships/jobs start opening up on **Early May the year before**. For example, for Summer 2027 internships, you should start applying **May 2026**. **YOU SHOULD APPLY ASAP WHEN ANY APP OPENS!!** This is no longer college applications - most listings are rolling and first-come-first-serve. Apply within the first day or two gives you the best chances
@@ -51,6 +51,21 @@ Every tool listed here is basically essential for the process.
 - [Jake's Template](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) is a LaTeX resume template that is used by almost everyone in CS. This is results-proven to be ATS (Applicant Tracking System, aka auto resume screener) friendly and LaTeX is a lot easier to manage in the long run than CareerLab/Center for Career Exploration's template, even if you have no experience in LaTeX at the moment.
 - [Pitt CSC & Simplify Job Board](https://github.com/SimplifyJobs/Summer2026-Internships) is the biggest centralized CS internship job board (there's a new grad version as well). It is updated multiple times a day during application season to show the newest openings. You should be checking this daily. There are also alternative boards that you can optionally cross-reference like the [Vansh & Ouckah Board](https://github.com/vanshb03/Summer2026-Internships).
 
+# Resume Tips
+- Include interesting numbers. How many users/requests/data entries does your work handle? How many different APIs/services does it interact with? Are there financial figures you can cite?
+  - Avoid unsubstantiated/confusing numbers like "improved developer speed by 300%". Be careful with percentages.
+- Include interesting keywords. Did you use a cool cloud technology? Kernel framework? Sophisticated data structure? Let people know.
+- Bold keywords to make your resume easier to read
+- Find some resume you like and dissect what seems impressive about it. Resume-writing involves a lot of thinking!
+
+# Interview Tips
+- Interview is NOT a test. Have a fun conversation with your interviewer! Sometimes I like to talk about video games or anime.
+- Get plenty of sleep, don't do any LC the day of your interview (or even the day before). Get some sugar and caffine and relax. Keep your nerves no matter what.
+- Leetcode prep wise I recommend doing [Blind 75/Neetcode 150](https://neetcode.io/practice) questions list.
+  - Do questions by difficulty and interleave categories
+  - Think about the solution and give up if you can't find something within 30 minutes. You learn MUCH more from reading and understanding a good answer than breaking your head on some silly brain teaser.
+  - I recommend Neetcode for solution/explaination videos
+- Get a friend to mock interview you helps.
 
 # FAQ
 - Recruiting sucks, this is causing a lot of anxiety and stress, I hate how much people do this :(
@@ -68,13 +83,13 @@ Every tool listed here is basically essential for the process.
 - How many applications is enough for freshman/sophomore/junior/senior year?
   - Apply until you're numb to it, and then congrats! You can now apply some more!
 - I hear of other people are getting interviews and offers left and right, I have nothing :(
-  - A surprising majority of people have been there at some point. The way I like to think about it is that if you worry over every person doing better than you at something you'd die before you finish worrying. So just focus on yourself :)
+  - A surprising majority of people have been there at some point. The way I like to think about it is that if you worry over every person doing better than you at something you'd die before you finish worrying. Your life is yours alone, so don't think too much about others.
 - Can you give me cool video game recommendations?
   - PLZPLZPLZ I want to talk to ppl about games especially Touhou!! I'm also down to talk about anime!! Message me on Discord @KoishiHat
 
 # Glossary
 This section covers common words used in CS recruiting circles.
-- Leetcode: CS Interviews generally consist of at least 1 technical round, where people are generally asked data structures & algorithms puzzles where you're supposed to code a solution. [Leetcode](leetcode.com) is the biggest platform hosting sample questions for practice.
+- Leetcode (LC): CS Interviews generally consist of at least 1 technical round, where people are generally asked data structures & algorithms puzzles where you're supposed to code a solution. [Leetcode](leetcode.com) is the biggest platform hosting sample questions for practice.
 - OA: Online Assessment, generally Leetcode-like coding questions administratered through online platforms like HackerRank.
 - SWE: Software Engineering
 - (T)PM: (Technical) Product Management, basically managers at tech companies.
