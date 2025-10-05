@@ -1,6 +1,5 @@
 # Brown-CS-Job-Guide
-<img width="500" height="498" alt="personality-haver" src="https://github.com/user-attachments/assets/f169d6c9-8554-47b9-96fd-04d50f81de19" />
-
+<img width="500" height="498" alt="personality-haver" src="https://github.com/user-attachments/assets/3a744dde-0cb4-42be-8294-81ad453a29c8" />
 
 > Author: Bokai Bi '26, Discord @KoishiHat
 
