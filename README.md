@@ -5,7 +5,7 @@
 
 > Additional Contributors: N/A, please feel free to submit PRs/issues if you think something should be covered!
 
-
+# This guide exists to make recruiting easier. Recruiting should only be a small portion of your college life and please spend time on friends, clubs, and cool projects.
 
 All your friends suddenly started talking about nonsensical terms and giving you anxiety? Feeling FOMO over not knowing what to prepare or what opportunities are available? Inspired by [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), this document will try to condense everything you need to know about the CS internship/job process while in BrownCS. The goal is to **maximize job prospects** while **minimizing stress** so you can spend you time on [cooler things](#shameless-personal-interest-plugs) :)
 
@@ -15,7 +15,7 @@ All your friends suddenly started talking about nonsensical terms and giving you
 - [Principles](#principles)
 - [Resources](#resources)
 - [FAQ](#faq)
-- [Resume Guide](#resume)
+- [Resume Tips](#resume)
 - [Interview Tips](#interview)
 - [CS Brainrot Glossary](#glossary)
 - [Classes Support](#classes)
@@ -53,7 +53,24 @@ Every tool listed here is basically essential for the process.
 
 
 # FAQ
-
+- Recruiting sucks, this is causing a lot of anxiety and stress, I hate how much people do this :(
+  - **ME TOO AHHHHHHH**. My least favorite thing about BrownCS is how easy it is to be jumped by recruiting conversations when I'm having fun with friends. It's pretty instinctual to want to procrastinate on thinking about it, but in my experience it just keeps on weighing on me and make me avoid it more. Ultimately, I think there are two ways of getting out of this without letting jobs consume your life. Either you decide to fully walk your own path, or you speedrun recruiting so you have more free time. I think both are really valid, and the former is especially underrated within the department. It's hard to not doubt yourself when you're surrounded in a CS environment, but I think you should totally go for it!
+- I've sent out hundreds of applications and have barely gotten any OAs let alone interviews.
+  - This is unfortunately normal and expected. You should just keep applying and think about it less. If you're worried about your resume you're always welcome to DMed on Discord at @KoishiHat and I can try to help.
+- How much do cover letters matter?
+  - I generally keep a pre-written cover letter that I can tweak for different companies - generally the point of a cover letter should be to relate your skills/experiences to the job.
+- Do I tailor my resume to the job?
+  - Yes you should. Some keyword order switch/substitutions should be enough though.
+- Do referrals matter? How do I decide between applying early vs. waiting for a referral?
+  - If the company is above 500 people it matters significantly less. Don't worry too much about it, though do get them if you could.
+  - Some companies allow retroactively applying referrals after application.
+  - I still don't know if it's worth it to wait lol, exercise your own judgment, though if you have specific companies in mind you should reach out before apps open.
+- How many applications is enough for freshman/sophomore/junior/senior year?
+  - Apply until you're numb to it, and then congrats! You can now apply some more!
+- I hear of other people are getting interviews and offers left and right, I have nothing :(
+  - A surprising majority of people have been there at some point. The way I like to think about it is that if you worry over every person doing better than you at something you'd die before you finish worrying. So just focus on yourself :)
+- Can you give me cool video game recommendations?
+  - PLZPLZPLZ I want to talk to ppl about games especially Touhou!! I'm also down to talk about anime!! Message me on Discord @KoishiHat
 
 # Glossary
 This section covers common words used in CS recruiting circles.
@@ -74,7 +91,7 @@ This section covers common words used in CS recruiting circles.
 # Classes
 This section covers a list of classes I took and my personal opinions on their recruiting utility. Note I'm a systems person so coverage isn't complete. 
 
-## This list is highly-subjective low-confidence advise and I'm probably wrong on many things, only consult this when you're undecided. **You should prioritize taking interesting classes! Recruitingmaxxing is sad :(**
+## This list is highly-subjective low-confidence advice and I'm probably wrong on many things, only consult this when you're undecided. **You should prioritize taking interesting classes! Recruitingmaxxing is sad :(**
 
 Recruiting Utility | Description
 --- | ---
