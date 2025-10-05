@@ -14,9 +14,9 @@ All your friends suddenly started talking about nonsensical terms and giving you
 - [Timeline](#timeline)
 - [Principles](#principles)
 - [Resources](#resources)
-- [Classes Guide](#classes)
 - [FAQ](#faq)
 - [CS Brainrot Glossary](#glossary)
+- [Classes Support](#classes)
 - [Shameless personal interests plug](#shameless-personal-interest-plugs)
 
 # Motivation
@@ -49,14 +49,9 @@ Every tool listed here is basically essential for the process.
 - [Jake's Template](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) is a LaTeX resume template that is used by almost everyone in CS. This is results-proven to be ATS (Applicant Tracking System, aka auto resume screener) friendly and LaTeX is a lot easier to manage in the long run than CareerLab/Center for Career Exploration's template, even if you have no experience in LaTeX at the moment.
 - [Pitt CSC & Simplify Job Board](https://github.com/SimplifyJobs/Summer2026-Internships) is the biggest centralized CS internship job board (there's a new grad version as well). It is updated multiple times a day during application season to show the newest openings. You should be checking this daily. There are also alternative boards that you can optionally cross-reference like the [Vansh & Ouckah Board](https://github.com/vanshb03/Summer2026-Internships).
 
-# Classes
-This section covers a list of classes I took and my personal opinions on them, ymmv.
-
-Course number | Time-consumption | Recruiting Utility | Notes
---- | --- | --- | ---
-CSCI 0190 Accelerated Intro. to CS. | ★★★ | ★★★ | 
 
 # FAQ
+
 
 # Glossary
 This section covers common words used in CS recruiting circles.
@@ -65,14 +60,53 @@ This section covers common words used in CS recruiting circles.
 - SWE: Software Engineering
 - (T)PM: (Technical) Product Management, basically managers at tech companies.
 - Unicorn: A privately-held startup company valued at over $1 billion.
-- IPO (Initial Public Offering): When a private company offers its stock to the public for the first time. A major liquidity event for employees.
-- TC (Total Compensation): The complete value of a job offer, including base salary, annual bonus, and the value of stock grants or options.
+- IPO (Initial Public Offering): When a private company offers its stock to the public for the first time. A major liquidity event for employees and stock prices will go up.
+- TC (Total Compensation): The complete compensation of a job offer, including base salary, annual bonus, and the value of stock grants or options.
 - RSUs (Restricted Stock Units): A form of stock-based compensation granted to employees that vests over time.
 - DSA: Data Structures and Algorithms, a common thing companies look for in applicants. Most Leetcode questions are DSA questions.
 - Quant: Quantitative trading. These companies trade assets using algorithms to make a lot of money. They pay a lot of money and tend to have harder interviews.
 - FAANG, MANGA etc: There are many variations of this but generally these acronyms are abbreviations for big tech companies. FacebookAppleAmazonNetflixGoogl, MetaAppleNetflix/NvidiaGoogleAmazon etc.
 - YC: Y-Combinator, a large venture capital firm that invests in a lot of tech startups, sometimes those founded by college students.
-- 
+
+
+# Classes
+This section covers a list of classes I took and my personal opinions on their recruiting utility. Note I'm a systems person so coverage isn't complete. 
+
+## This list is highly-subjective low-confidence advise, only consult this when you're undecided. **You should prioritize taking interesting classes! Recruitingmaxxing is sad :(**
+
+Recruiting Utility | Description
+--- | ---
+★★★★ | Recommended to everyone. Take ASAP when possible.
+★★★ | Situationally amazing. Strongly recommended unless impossible / not the area you want to work in.
+★★ | Can be strong if you make a particularly good project or continue deep into the field through research/subsequent classes.
+★ | Specialized classes. These are required if you want to do their respective niche fields, but otherwise won't help much.
+
+Course number | Time-consumption/week | Recruiting Utility | Notes
+--- | --- | --- | ---
+CSCI 0300 Fundamentals of Computer Systems | 4 hrs | ★★★★ | 300 is a key prereq for all systems classes and systems is very employable. Good knowledge to have even if you don't want to do systems.
+CSCI 1670/90 Operating Systems (with lab) | (10?) hrs | ★★★ | Class is currently under redesign. Concepts are essential if you want to do systems. 
+CSCI 2680 Computer Networks and the Internet | 8 hrs | ★★★ | This is a paper-reading research seminar. Gives you extremely strong resume project & interview conversation topics.
+CSCI 2690 Data Center and Cloud Operating Systems | 10 hrs | ★★★ | Same as above, but for OS rather than networks.
+CSCI 1470 Deep Learning | 10 hrs | ★★★ | Cool content but difficult class. Good general knowledge even if you don't do AI. Good project opportunity.
+CSCI 1675 High-Performance Computer Networks | 12 hrs | ★★★ | Impressive deep exploration class. Not recommended to general public though.
+CSCI 1260 Compilers and Program Analysis | 3 hrs | ★★ | Easy class and interesting content, it's pretty niche but good general knowledge to have.
+CSCI 1680 Computer Networks | 4 hrs | ★★ | Networks is helpful if you need a cool personal project. It's also pretty employable in systems & quant dev.
+CSCI 1010 Theory of Computation | 6 hrs | ★★ | Difficult math class, good interview conversation topic at highly technical places but otherwise not useful.
+CSCI 1300 Interaction Design (aka UI/UX) | 15 hrs | ★★ | Scary subjective grading and had to fight tooth and nail for an A. Please S/NC if you take it with Jeff Huang.
+CSCI 1515 Applied Cryptography | 4 hrs | ★ | Niche class, somewhat number theoretic, but super interesting and Peihan is an amazing professor.
+CSCI 1230 Intro. to Computer Graphics | 7 hrs | ★ | Niche class that is somewhat math heavy. Many people find it very interesting though.
+CSCI 1440 Algorithmic Game Theory | 7 hrs | ★ | Niche class mainly for quant recruiting. 
+CSCI 0220 Discrete Structures and Probability | 3 hrs | N/A | Easy math class, interesting but in general I don't think math/theory is that useful for recruiting. Note they might rework it to be more difficult.
+
+And here's a list of classes I didn't take and my (much less educated) opinions on them
+Course number | Rumored Difficulty | Recruiting Utility | Notes
+--- | --- | --- | ---
+CSCI 0320 Software Engineering | Pretty time-consuming | ★★ | Possible project class & resume keyword. Most of the content is self-learnable though. Also full-stack might become less relevant nowadays due to AI.
+CSCI 1440 Machine Learning | Easier than deep learning | ★★★ | Didn't take because it overlaps a bit with DL and I'm not thaaaat into AI.
+CSCI 1570 Design and Analysis of Algorithms | Allegedly difficult | ★★ | Difficult algorithm class. Good conversation topic at technical places & allegedly makes you extremely good at Leetcode.
+CSCI 1600 Real-time and Embedded Software | Haven't heard anything | ★ | Niche class but essential if you want to do real-time or embedded.
+CSCI 1650 Software Security and Exploitation | Allegedly quite light | ★ | Niche security class about buffer overflows
+CSCI 1715 Formal Proof and Verification | Allegedly not that hard | ★(★?) | Niche theory class, could be cool conversation topic at technical places.
 
 # Shameless Personal Interest Plugs
 Check out:
