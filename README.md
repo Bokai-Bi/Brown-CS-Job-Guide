@@ -34,7 +34,7 @@ Personally, I think I have a pretty broad experience in recruiting & BrownCS - I
     - Applications for Summer semester UTRA is generally due late Jan/early Feb.
     - Applications for Fall semester UTRA is generally due early/mid May.
   - Outside of UTRA, don't be afraid to just approach professors and ask if they have research opportunities available! This is especially helpful if they know you from class.
-  - BrownCS has a sizable undergraudate TA program that's also a nice starting point for resume. This is traditionally pretty competitive especially for intro classes, though you should apply anyways.
+  - BrownCS has a sizable undergraduate TA program that's also a nice starting point for resume. This is traditionally pretty competitive especially for intro classes, though you should apply anyways.
     - [Timeline](https://cs.brown.edu/courses/ta/hiring/). UTA applications generally open ~early Oct and you should get an email from the CS Department containing links.
 
 # Principles
