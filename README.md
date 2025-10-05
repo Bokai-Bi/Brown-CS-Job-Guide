@@ -1,5 +1,6 @@
 # Brown-CS-Job-Guide
-<img width="500" height="498" alt="personality-haver" src="https://github.com/user-attachments/assets/6649ad66-2cc7-4cd5-9e26-b393663300ec" />
+<img width="500" height="498" alt="personality-haver" src="https://github.com/user-attachments/assets/c02b0dce-42f7-49e7-8640-580c8d78e679" />
+
 
 > Author: Bokai Bi '26, Discord @KoishiHat
 
@@ -69,7 +70,7 @@ Every tool listed here is basically essential for the process.
 
 # FAQ
 - Recruiting sucks, this is causing a lot of anxiety and stress, I hate how much people do this :(
-  - **ME TOO AHHHHHHH**. My least favorite thing about BrownCS is how easy it is to be jumped by recruiting conversations when I'm having fun with friends. It's pretty instinctual to want to procrastinate on thinking about it, but in my experience it just keeps on weighing on me and make me avoid it more. Ultimately, I think there are two ways of getting out of this without letting jobs consume your life. Either you decide to fully walk your own path, or you speedrun recruiting so you have more free time. I think both are really valid, and the former is especially underrated within the department. It's hard to not doubt yourself when you're surrounded in a CS environment, but I think you should totally go for it!
+  - **ME TOO AHHHHHHH**. My least favorite thing about BrownCS is how easy it is to be jumped by recruiting conversations when I'm having fun with friends. It's pretty instinctual to want to procrastinate on thinking about it, but in my experience it just keeps on weighing on me and make me avoid it more. Ultimately, I think there are two ways of getting out of this without letting jobs consume your life. Either you decide to fully walk your own path, or you speedrun recruiting so you have more free time. I think both are really valid, and the former is especially underrated within the department. They're also not mutually exclusive. It's hard to not doubt yourself when you're surrounded in a CS environment, but I think you won't regret doing something you truly want.
 - I've sent out hundreds of applications and have barely gotten any OAs let alone interviews.
   - This is unfortunately normal and expected. You should just keep applying and think about it less. If you're worried about your resume you're always welcome to DMed on Discord at @KoishiHat and I can try to help.
 - How much do cover letters matter?
@@ -104,9 +105,9 @@ This section covers common words used in CS recruiting circles.
 
 
 # Classes
-This section covers a list of classes I took and my personal opinions on their recruiting utility. Note I'm a systems person so coverage isn't complete. 
+This section retrospectively covers a list of classes I took. Note I'm a systems person so coverage isn't complete. 
 
-## This list is highly-subjective low-confidence advice and I'm probably wrong on many things, only consult this when you're undecided. **You should prioritize taking interesting classes! Recruitingmaxxing is sad :(**
+## This list is highly-subjective low-confidence advice and everyone's probably different, only consult this when you're undecided. **You should prioritize taking classes interesting to you! I took all these classes because I found them interesting, and I'm sure classes you find interesting are helpful to recruiting as well**
 
 Recruiting Utility | Description
 --- | ---
