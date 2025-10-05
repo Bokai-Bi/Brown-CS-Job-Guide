@@ -72,7 +72,7 @@ This section covers common words used in CS recruiting circles.
 # Classes
 This section covers a list of classes I took and my personal opinions on their recruiting utility. Note I'm a systems person so coverage isn't complete. 
 
-## This list is highly-subjective low-confidence advise, only consult this when you're undecided. **You should prioritize taking interesting classes! Recruitingmaxxing is sad :(**
+## This list is highly-subjective low-confidence advise and I'm probably wrong on many things, only consult this when you're undecided. **You should prioritize taking interesting classes! Recruitingmaxxing is sad :(**
 
 Recruiting Utility | Description
 --- | ---
