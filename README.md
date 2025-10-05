@@ -1,7 +1,7 @@
 # Brown-CS-Job-Guide
 <img width="500" height="498" alt="personality-haver" src="https://github.com/user-attachments/assets/3a744dde-0cb4-42be-8294-81ad453a29c8" />
 
-> Author: Bokai Bi '26, Discord @KoishiHat
+> Author: Bokai Bi '26, Discord @KoishiHat <- DM me about anything, but esp. Touhou, video games, and anime you like :)
 
 > Additional Contributors: N/A atm, please feel free to submit PRs/issues if you think something should be covered!
 
@@ -55,8 +55,8 @@ Every tool listed here is basically essential for the process.
 - Include interesting numbers. How many users/requests/data entries does your work handle? How many different APIs/services does it interact with? Are there financial figures you can cite?
   - Avoid unsubstantiated/confusing numbers like "improved developer speed by 300%". Be careful with percentages.
 - Include interesting keywords. Did you use a cool cloud technology? Kernel framework? Sophisticated data structure? Let people know.
-- Bold keywords to make your resume easier to read
-- Find some resume you like and dissect what seems impressive about it. Resume-writing involves a lot of thinking!
+- Bold keywords to make your resume easier to read.
+- Find some resume you like and dissect it. Resume-writing involves a lot of thinking!
 - Be truthful! Outside of obvious moral reasons, fabrication will eventually get found out.
 
 # Interview Tips
