@@ -72,7 +72,7 @@ Every tool listed here is basically essential for the process.
 - Recruiting sucks, this is causing a lot of anxiety and stress, I hate how much people do this :(
   - **ME TOO AHHHHHHH**. My least favorite thing about BrownCS is how easy it is to be jumped by recruiting conversations when I'm having fun with friends. It's pretty instinctual to want to procrastinate on thinking about it, but in my experience it just keeps on weighing on me and make me avoid it more. Ultimately, I think there are two ways of getting out of this without letting jobs consume your life. Either you decide to fully walk your own path, or you speedrun recruiting so you have more free time. I think both are really valid, and the former is especially underrated within the department. They're also not mutually exclusive. It's hard to not doubt yourself when you're surrounded in a CS environment, but I think you won't regret doing something you truly want.
 - I've sent out hundreds of applications and have barely gotten any OAs let alone interviews.
-  - This is unfortunately normal and expected. You should just keep applying and think about it less. If you're worried about your resume you're always welcome to DMed on Discord at @KoishiHat and I can try to help.
+  - This is unfortunately normal and expected and happens to everyone. You should just keep applying and think about it less. If you're worried about your resume you're always welcome to DMed on Discord at @KoishiHat and I can try to help.
 - How much do cover letters matter?
   - I generally keep a pre-written cover letter that I can tweak for different companies - generally the point of a cover letter should be to relate your skills/experiences to the job.
 - Do I tailor my resume to the job?
@@ -84,7 +84,7 @@ Every tool listed here is basically essential for the process.
 - How many applications is enough for freshman/sophomore/junior/senior year?
   - Apply until you're numb to it, and then congrats! You can now apply some more!
 - I hear of other people are getting interviews and offers left and right, I have nothing :(
-  - A surprising majority of people have been there at some point. The way I like to think about it is that if you worry over every person doing better than you at something you'd die before you finish worrying. Your life is yours alone, so don't think too much about others.
+  - I think most of us have been there at some point. The way I like to think about it is that if you worry over every person doing better than you at something you'd die before you finish worrying. Your life is yours alone, so don't think too much about others.
 - Can you give me cool video game recommendations?
   - PLZPLZPLZ I want to talk to ppl about games especially Touhou!! I'm also down to talk about anime!! Message me on Discord @KoishiHat
 
