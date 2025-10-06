@@ -24,10 +24,10 @@ All your friends suddenly started talking about nonsensical terms and giving you
 # Motivation
 I was chatting with a friend in Sunlab and realized there's no resource in Brown to help learning about the CS recruiting process. Recruiting is complicated and figuring everything out yourself take a lot of energy and creates anxiety. In the meantime, seniors with recruiting knowledge typically graduate without an opportunity to pass it down. 
 
-Personally, I think I have a pretty broad experience in recruiting & BrownCS - I've gotten offers from well-funded startups, quant firms, and tech companies of all sizes. In the past, I interned at Stripe and JPMorgan Chase, did systems research as an UTRA, TAed multiple classes, and also worked as a [SPOC](https://cs.brown.edu/people/staff/spoc/). I hope this guide will pass down some of my experiences to help making the process a bit easier.
+Personally, I think I have a pretty broad experience in recruiting & BrownCS - I've gotten offers from well-funded startups, quant firms, and tech companies of all sizes. In the past, I interned at Stripe and JPMorgan Chase, did systems research as an UTRA, TAed multiple classes, and also worked as a [SPOC](https://cs.brown.edu/people/staff/spoc/). I hope this guide will pass down some of my experiences and help making the process a bit easier.
 
 # Timeline
-- Applications for summer SWE internships/jobs start opening up on **Early May the year before**. For example, for Summer 2027 internships, you should start applying **May 2026**. **YOU SHOULD APPLY ASAP WHEN ANY APP OPENS!!** This is no longer college applications - most listings are rolling and first-come-first-serve. Apply within the first day or two gives you the best chances. Applications keep opening up for a long time, probably until Jan/Feb next year.
+- Applications for summer SWE internships/jobs start opening up on **Early May the year before**. For example, for Summer 2027 internships, you should start applying **May 2026**. **YOU SHOULD APPLY ASAP WHEN ANY APP OPENS!!** This is no longer college applications - most listings are rolling and first-come-first-serve. Applying within the first day or two gives you the best chances. Applications keep opening up for a long time, probably until Jan/Feb next year.
 - Brown internal opportunities:
   - [UTRA](https://utra.brown.edu/students#application-process) is a program where you apply to do research projects with faculty. This generally is a very nice starting point for your resume.
     - Applications for Spring semester UTRA is generally due late Sept/early Oct.
@@ -119,13 +119,13 @@ Recruiting Utility | Description
 Course number | Time-consumption/week | Recruiting Utility | Notes
 --- | --- | --- | ---
 CSCI 0300 Fundamentals of Computer Systems | 4 hrs | ★★★★ | 300 is a key prereq for all systems classes and systems is very employable. Good knowledge to have even if you don't want to do systems.
+CSCI 1680 Computer Networks | 4 hrs | ★★★ | Networks is helpful if you need a cool personal project. It's also pretty employable in systems & quant dev.
 CSCI 1670/90 Operating Systems (with lab) | (10?) hrs | ★★★ | Class is currently under redesign. Concepts are essential if you want to do systems. 
 CSCI 2680 Computer Networks and the Internet | 8 hrs | ★★★ | This is a paper-reading research seminar. Gives you extremely strong resume project & interview conversation topics.
 CSCI 2690 Data Center and Cloud Operating Systems | 10 hrs | ★★★ | Same as above, but for OS rather than networks.
 CSCI 1470 Deep Learning | 10 hrs | ★★★ | Cool content but difficult class. Good general knowledge even if you don't do AI. Good project opportunity.
 CSCI 1675 High-Performance Computer Networks | 12 hrs | ★★★ | Impressive deep exploration class. Not recommended to general public though.
 CSCI 1260 Compilers and Program Analysis | 3 hrs | ★★ | Easy class and interesting content, it's pretty niche but good general knowledge to have.
-CSCI 1680 Computer Networks | 4 hrs | ★★ | Networks is helpful if you need a cool personal project. It's also pretty employable in systems & quant dev.
 CSCI 1010 Theory of Computation | 6 hrs | ★★ | Difficult math class, good interview conversation topic at highly technical places but otherwise not useful.
 CSCI 1300 Interaction Design (aka UI/UX) | 15 hrs | ★★ | Scary subjective grading and had to fight tooth and nail for an A. Please S/NC if you take it with Jeff Huang.
 CSCI 1515 Applied Cryptography | 4 hrs | ★ | Niche class, somewhat number theoretic, but super interesting and Peihan is an amazing professor.
