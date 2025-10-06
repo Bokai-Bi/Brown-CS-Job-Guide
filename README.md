@@ -66,7 +66,7 @@ Every tool listed here is basically essential for the process.
   - Do questions by difficulty and interleave categories
   - Think about the solution and give up if you can't find something within 30 minutes. You learn MUCH more from reading and understanding a good answer than breaking your head on some silly brain teaser.
   - I recommend Neetcode for solution/explaination videos
-- Get a friend to mock interview you helps.
+- Get a friend to mock interview you helps. You can also get free mock interviews from [Exponent](tryexponent.com) with your Brown email.
 
 # FAQ
 - Recruiting sucks, this is causing a lot of anxiety and stress, I hate how much people do this :(
