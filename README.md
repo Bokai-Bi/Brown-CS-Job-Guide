@@ -44,6 +44,8 @@ This section covers best practices to be following during job apps.
   - For reference, my freshman summer I sent ~300 applications with 3 interviews. Sophomore summer I sent ~300 applications with 8 interviews.
 - Allocate dedicated daily time over the Summer and early Fall for job apps. Apply quickly and forget - don't let it bleed all over your life.
 - Check your emails frequently. Recruiters will be reaching out there.
+- Make a LinkedIn if you haven't and fill out basic information - experiences, skills, and education. Keep your LinkedIn updated since once you have experiences recruiters might start reaching out there. Just copying your resume bullet points is fine.
+  - I would suggest using LinkedIn only as a profile and reachout tool. The social media functionalities are rarely worth the time.
 
 # Resources
 Every tool listed here is basically essential for the process.
@@ -60,12 +62,14 @@ Every tool listed here is basically essential for the process.
 - Be truthful! Outside of obvious moral reasons, fabrication will eventually get found out.
 
 # Interview Tips
+- Interviews are generally split into **technical interviews** and **behavioral interviews**. Technicals will have you implement algorithms or design systems/applications, while behaviorals will have you answer traditional interview questions like "tell me about a time..."
 - Interview is NOT a test. Have a fun conversation with your interviewer! Sometimes I like to talk about video games or anime.
 - Get plenty of sleep, don't do any LC the day of your interview (or even the day before). Get some sugar and caffine and relax. Keep your nerves.
 - Leetcode prep wise I recommend doing [Blind 75/Neetcode 150](https://neetcode.io/practice) questions list.
   - Do questions by difficulty and interleave categories
   - Think about the solution and give up if you can't find something within 30 minutes. You learn MUCH more from reading and understanding a good answer than breaking your head on some silly brain teaser.
   - I recommend Neetcode for solution/explaination videos
+- For behavioral interviews, I personally find it helpful to prepare a few experiences you can talk really in-depth about, then relate individual questions to them.
 - Get a friend to mock interview you helps. You can also get unlimited free mock interviews from [Exponent](tryexponent.com) with your Brown email.
 
 # FAQ
