@@ -9,6 +9,8 @@
 
 All your friends suddenly started talking about nonsensical terms and giving you anxiety? Feeling FOMO over not knowing what to prepare or what opportunities are available? Inspired by [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), this document will try to condense everything you need to know about the CS internship/job process while in BrownCS. The goal is to **maximize job prospects** while **minimizing stress** so you can spend you time on [cooler things](#shameless-personal-interest-plugs) :)
 
+Fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScRSLjuz2d9GJW7z8JV3HzclMWUeSnKAncdUy1ZnK1TfRcFqg/viewform?usp=dialog) form if you're interested in future guides on interviewing or navigating your internship.
+
 # Index
 - [Motivation](#motivation)
 - [Timeline](#timeline)
