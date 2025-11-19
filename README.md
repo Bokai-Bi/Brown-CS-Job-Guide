@@ -24,11 +24,11 @@ All your friends suddenly started talking about nonsensical terms and giving you
 # Motivation
 I was chatting with a friend in Sunlab and realized there's no resource in Brown to help learning about the CS recruiting process. Recruiting is complicated and figuring everything out yourself take a lot of energy and creates anxiety. In the meantime, seniors with recruiting knowledge typically graduate without an opportunity to pass it down. 
 
-Personally, I think I have a pretty broad experience in recruiting & BrownCS - I've gotten offers from well-funded startups, quant firms, and tech companies of all sizes. In the past, I interned at Stripe and JPMorgan Chase, did systems research as an UTRA, TAed multiple classes, and also worked as a [SPOC](https://cs.brown.edu/people/staff/spoc/). I hope this guide will pass down some of my experiences and help making the process a bit easier.
+Personally, I think I have a pretty broad experience in recruiting & BrownCS - I've gotten new grad offers from well-funded startups, quant firms, and tech companies of all sizes. In the past, I interned at Stripe and JPMorgan Chase, did systems research as an UTRA, TAed multiple classes, and also worked as a [SPOC](https://cs.brown.edu/people/staff/spoc/). I hope this guide will pass down some of my experiences and help making the process a bit easier.
 
 # Timeline
 - Applications for summer SWE internships/jobs start opening up on **Early May the year before**. For example, for Summer 2027 internships, you should start applying **May 2026**. **YOU SHOULD APPLY ASAP WHEN ANY APP OPENS!!** This is no longer college applications - most listings are rolling and first-come-first-serve. Applying within the first day or two gives you the best chances. Applications keep opening up for a long time, probably until Jan/Feb next year.
-- Brown internal opportunities:
+- Brown internal opportunities - nice for when you're starting out:
   - [UTRA](https://utra.brown.edu/students#application-process) is a program where you apply to do research projects with faculty. This generally is a very nice starting point for your resume.
     - Applications for Spring semester UTRA is generally due late Sept/early Oct.
     - Applications for Summer semester UTRA is generally due late Jan/early Feb.
@@ -41,11 +41,12 @@ Personally, I think I have a pretty broad experience in recruiting & BrownCS - I
 This section covers best practices to be following during job apps.
 - Apply ASAP to any listing. Applications are generally rolling.
 - Apply a LOT (ideally to all new listings) until your resume is good enough to not need it. The market is competitive, and people generally send out hundreds of applications.
-  - For reference, my freshman summer I sent ~300 applications with 3 interviews. Sophomore summer I sent ~300 applications with 8 interviews.
+  - For reference, my freshman summer I sent ~300 applications with 3 interviews. Sophomore summer I sent ~300 applications with 8 interviews. For new grad however I barely applied anywhere as recruiters actually started reaching out to me first since I now have plenty of experiences.
 - Allocate dedicated daily time over the Summer and early Fall for job apps. Apply quickly and forget - don't let it bleed all over your life.
 - Check your emails frequently. Recruiters will be reaching out there.
 - Make a LinkedIn if you haven't and fill out basic information - experiences, skills, and education. Keep your LinkedIn updated since once you have experiences recruiters might start reaching out there. Just copying your resume bullet points is fine.
   - I would suggest using LinkedIn only as a profile and reachout tool. The social media functionalities are rarely worth the time.
+- Don't bother with Leetcode until you've gotten a stable resume and started regularly applying - 
 
 # Resources
 Every tool listed here is basically essential for the process.
@@ -57,8 +58,11 @@ Every tool listed here is basically essential for the process.
 - Include interesting numbers. How many users/requests/data entries does your work handle? How many different APIs/services does it interact with? Are there financial figures you can cite?
   - Avoid unsubstantiated/confusing numbers like "improved developer speed by 300%". Be careful with percentages.
 - Include interesting keywords. Did you use a cool cloud technology? Kernel framework? Sophisticated data structure? Let people know.
+  - Finding out about this and numbers should be your top priority when starting any experience you want to put on your resume.
 - Bold keywords to make your resume easier to read.
 - Find some resume you like and dissect it. Resume-writing involves a lot of thinking!
+- Tailor your resume to the job listing by including relevant keywords.
+  - Some people keep different resumes for different types of positions, though it's harder to manage.
 - Be truthful! Outside of obvious moral reasons, fabrication will eventually get found out.
 
 # Interview Tips
@@ -66,9 +70,9 @@ Every tool listed here is basically essential for the process.
 - Interview is NOT a test. Have a fun conversation with your interviewer! Sometimes I like to talk about video games or anime.
 - Get plenty of sleep, don't do any LC the day of your interview (or even the day before). Get some sugar and caffine and relax. Keep your nerves.
 - Leetcode prep wise I recommend doing [Blind 75/Neetcode 150](https://neetcode.io/practice) questions list.
-  - Do questions by difficulty and interleave categories
-  - Think about the solution and give up if you can't find something within 30 minutes. You learn MUCH more from reading and understanding a good answer than breaking your head on some silly brain teaser.
-  - I recommend Neetcode for solution/explaination videos
+  - Do questions by difficulty and interleave categories.
+  - Think about the solution and give up if you can't find something within 30 minutes. You learn MUCH more from reading and internalizing a good answer than breaking your head on some silly brain teaser.
+  - I recommend Neetcode for solution/explaination videos.
 - For behavioral interviews, I personally find it helpful to prepare a few experiences you can talk really in-depth about, then relate individual questions to them.
 - Get a friend to mock interview you helps. You can also get unlimited free mock interviews from [Exponent](tryexponent.com) with your Brown email.
 
@@ -78,13 +82,13 @@ Every tool listed here is basically essential for the process.
 - I've sent out hundreds of applications and have barely gotten any OAs let alone interviews.
   - This is unfortunately normal and expected and happens to everyone. You should just keep applying and think about it less. If you're worried about your resume you're always welcome to DMed on Discord at @KoishiHat and I can try to help.
 - How much do cover letters matter?
-  - I generally keep a pre-written cover letter that I can tweak for different companies - generally the point of a cover letter should be to relate your skills/experiences to the job.
+  - I generally keep a pre-written cover letter that I can tweak for different companies - generally the point of a cover letter should be to relate your skills/experiences to the job. Not sure how much it matters lol.
 - Do I tailor my resume to the job?
-  - Yes you should. Some keyword order switch/substitutions should be enough though.
+  - Yes you should. Some keyword order switch/substitutions should be enough for most positions though.
 - Do referrals matter? How do I decide between applying early vs. waiting for a referral?
   - If the company is above 500 people it matters significantly less. Don't worry too much about it, though do get them if you could.
   - Some companies allow retroactively applying referrals after application.
-  - I still don't know if it's worth it to wait lol, exercise your own judgment, though if you have specific companies in mind you should reach out before apps open.
+  - I still don't know if it's worth it to wait lol, exercise your own judgment, though if you have specific companies in mind you should reach out for referrals before apps open.
 - How many applications is enough for freshman/sophomore/junior/senior year?
   - Apply until you're numb to it, and then congrats! You can now apply some more!
 - I hear of other people are getting interviews and offers left and right, I have nothing :(
@@ -122,7 +126,7 @@ Recruiting Utility | Description
 
 Course number | Time-consumption/week | Recruiting Utility | Notes
 --- | --- | --- | ---
-CSCI 0300 Fundamentals of Computer Systems | 4 hrs | ★★★★ | 300 is a key prereq for all systems classes and systems is very employable. Good knowledge to have even if you don't want to do systems.
+CSCI 0300 Fundamentals of Computer Systems | 4 hrs | ★★★★ | 300 is a key prereq for all systems classes and systems is very employable. Good knowledge to have even if you don't want to do systems. Also gives you access to a lot of research opportunities
 CSCI 1680 Computer Networks | 4 hrs | ★★★ | Networks is helpful if you need a cool personal project. It's also pretty employable in systems & quant dev.
 CSCI 1670/90 Operating Systems (with lab) | (10?) hrs | ★★★ | Class is currently under redesign. Concepts are essential if you want to do systems. 
 CSCI 2680 Computer Networks and the Internet | 8 hrs | ★★★ | This is a paper-reading research seminar. Gives you extremely strong resume project & interview conversation topics.
