@@ -48,7 +48,7 @@ This section covers best practices to be following during job apps.
 - Check your emails frequently. Recruiters will be reaching out there.
 - Make a LinkedIn if you haven't and fill out basic information - experiences, skills, and education. Keep your LinkedIn updated since once you have experiences recruiters might start reaching out there. Just copying your resume bullet points is fine.
   - I would suggest using LinkedIn only as a profile and reachout tool. The social media functionalities are rarely worth the time.
-- Don't bother with Leetcode until you've gotten a stable resume and started regularly applying - 
+- Don't bother with Leetcode until you've gotten a stable resume and started regularly applying - start doing them once you get OAs and interview invites. 
 
 # Resources
 Every tool listed here is basically essential for the process.
@@ -57,6 +57,7 @@ Every tool listed here is basically essential for the process.
 - [Pitt CSC & Simplify Job Board](https://github.com/SimplifyJobs/Summer2026-Internships) is the biggest centralized CS internship job board (there's a new grad version as well). It is updated multiple times a day during application season to show the newest openings. You should be checking this daily. There are also alternative boards that you can optionally cross-reference like the [Vansh & Ouckah Board](https://github.com/vanshb03/Summer2026-Internships). If you're interested in explicitly freshman/sophomore opportunities, there are dedicated boards like [this](https://github.com/codicate/underclassmen-internships) (you should apply to general internships regardless).
 
 # Resume Tips
+- [My resume for reference](https://bokaibi.com/Bokai_Bi_resume.pdf)
 - Include interesting numbers. How many users/requests/data entries does your work handle? How many different APIs/services does it interact with? Are there financial figures you can cite?
   - Avoid unsubstantiated/confusing numbers like "improved developer speed by 300%". Be careful with percentages.
 - Include interesting keywords. Did you use a cool cloud technology? Kernel framework? Sophisticated data structure? Let people know.
